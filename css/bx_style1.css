@@ -1,0 +1,14 @@
+/*공통*/
+*{margin: 0; padding: 0; font-family: "Noto Sans CJK KR"}
+ul{list-style: none}
+.inner{width: 100%; margin: 0 auto}
+html{font-size: 10px}
+a{text-decoration: none;}
+
+.consept img{width: 100%; display: block}
+.mockup_1 img{width: 100%; display: block}
+.back_btn{width: 12%; height: 50px; margin: 50px auto; background-color: #000; text-align: center; line-height: 50px}
+.back_btn a{color: #fff; font-size: 2rem; text-align: center}
+
+.back_btn2{width: 12%; height: 50px; margin: 50px auto; background-color: #f37021; text-align: center; line-height: 50px}
+.back_btn2 a{color: #fff; font-size: 2rem; text-align: center}
